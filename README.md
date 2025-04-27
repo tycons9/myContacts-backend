@@ -1,6 +1,6 @@
 # MyContacts Backend
 
-![MyContacts Logo](https://your-logo-link-here.com)
+
 
 ## Description
 
