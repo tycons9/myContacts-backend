@@ -27,7 +27,7 @@ The backend supports basic CRUD operations and can be integrated with various fr
 
 ### Prerequisites
 
-Ensure you have the following installed on your system:
+Ensure you have the following installed on your system
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
